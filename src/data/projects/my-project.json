@@ -1,13 +1,13 @@
 {
   "studentName": "Abatu Dykstra",
-  "projectTitle": "Quantum & Classical Particle Simulation",
-  "description": "Interactive simulation demonstrating the behavior of quantum and classical particles with real-time visualization and University of Michigan styling.",
-  "projectType": ["Web App"],
-  "projectUrl": "https://abluewolverine.github.io/final-project-abluewolverine",
-  "githubUrl": "https://github.com/abluewolverine/final-project-abluewolverine",
-  "projectImage": "particle-simulation.png",
-  "tags": ["React", "Physics Simulation", "Data Visualization"],
-  "reflections": "Built an interactive particle simulation with quantum mechanics visualization, learned React state management and scientific computing.",
+  "projectTitle": "OMNI DJ Controller",
+  "description": "A web-based DJ music controller with dual decks, crossfader, tempo control, audio effects (reverb & delay), spectrum analyzer, and auto-sync functionality for mixing tracks.",
+  "projectType": ["Web App", "Audio Application"],
+  "projectUrl": "https://umsi211f2025.github.io/final-project-abluewolverine/apps/dj-controller/",
+  "githubUrl": "https://github.com/umsi211f2025/final-project-abluewolverine",
+  "projectImage": "music-controller.png",
+  "tags": ["JavaScript", "Web Audio API", "Canvas", "CSS", "HTML5", "Audio Processing"],
+  "reflections": "Learned audio processing with Web Audio API, implemented real-time audio effects, and created an interactive music application with visual feedback.",
   "studentPhoto": "wolverine.webp",
-  "videoUrl": "https://youtube.com/watch?v=..."
+  "videoUrl": "https://youtu.be/0cjx5f7iPgA?si=iy5_dIvwOzQYt_Ql"
 }
